@@ -27,7 +27,7 @@
 </div>
 
 <!-- TABLE OF CONTENTS -->
-<details>
+<details align="center">
   <summary>Table of Contents</summary>
   <ol>
     <li>
