@@ -1,6 +1,5 @@
 # Developer_landing_website
 <div id="top"></div>
-
 <!-- Social Links -->
 
 [![LinkedIn][linkedin-shield]]
